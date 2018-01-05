@@ -6,9 +6,10 @@
   "author": "Rounted",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^11.2.1",
     "express": "^4.16.2"
   },
-  "scripts":{
+  "scripts": {
     "start": "node index.js"
   }
 }
