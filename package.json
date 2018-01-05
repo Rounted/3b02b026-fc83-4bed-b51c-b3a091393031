@@ -1,0 +1,14 @@
+{
+  "name": "eroubot",
+  "version": "1.0.0",
+  "description": "Basit bir discord uygulaması.",
+  "main": "index.js",
+  "author": "Rounted",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
