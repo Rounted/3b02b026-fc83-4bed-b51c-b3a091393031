@@ -20,6 +20,23 @@ msg.channel.send('Başarılı Dostum !');
 }
 });
 
+bot.on("message", function(msg){
+    if(msg.content === prefix + "yardım")
+    {
+    msg.channel.send('Komut Listesi : /test , /yardım ,/temizle (Mesaj Sayısı)');
+    }
+    });
+    
+
+
+
+
+
+
+
+
+
+
 
 
 
